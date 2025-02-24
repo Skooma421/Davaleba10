@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Davaleba10</string>
+    <string name="andrew_ainsley">Andrew Ainsley</string>
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="address">Address</string>
+    <string name="notification">Notification</string>
+    <string name="skumiko">Skumiko</string>
+    <string name="payment">Payment</string>
+    <string name="sample_text">Sample Text</string>
+    <string name="english_us">English (US)</string>
+</resources>

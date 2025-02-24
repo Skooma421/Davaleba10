@@ -1,0 +1,6 @@
+<resources>
+    <style name="MyCustomSwitchStyle" parent="Theme.MaterialComponents.Light">
+        <item name="colorControlActivated">#36383e</item>
+        <item name="android:colorBackground">@color/white</item>
+    </style>
+</resources>
